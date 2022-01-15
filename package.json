@@ -30,6 +30,6 @@
   "devDependencies": {
     "@now/node": "^1.6.1",
     "cssnano": "^4.1.10",
-    "marked": "^1.1.0"
+    "marked": "^4.0.10"
   }
 }
